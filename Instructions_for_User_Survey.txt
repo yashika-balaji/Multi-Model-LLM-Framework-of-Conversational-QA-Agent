@@ -1,0 +1,28 @@
+Persona 1: As a prospective applicant researching about the module (Data Management for Engineering Applications) and its structures
+
+Tasks:
+
+Please use below instructions to test the Q&A system to find the following information. Frame questions in your own words based on the points given below
+
+1. Ask about the prerequisites of this module
+2. Find out how many credit points this module have and what is the expected workload.
+3. Ask about the teaching medium/language of the module
+4. Ask about who teaches this module or which department offers it.
+5. Ask about level of course (basic or advanced) for a student in their initial semesters
+6. Ask at least one question that is irrelevant with this course (Eg: ask about a city, weather, sport, food etc)
+
+
+Persona 2: As an enrolled student assessing the module (Data Management for Engineering Applications) to decide whether to take it up
+
+Tasks:
+
+Please use below instructions to test the Q&A system to find the following information. Frame questions in your own words based on the points given below
+
+1. Find out which topics or content areas will be covered in this module.
+2. Ask about the examination type (Eg: written/oral/seminar)
+3. Ask about the career prospects of this module.
+4. Ask a question that can tell about prospects of doing a thesis in the same domain/module related thesis
+5. Ask about strategies to perform well in the exam.
+6. Ask at least one question that is irrelevant with this course (Eg: ask about a city, weather, sport, food etc)
+
+
