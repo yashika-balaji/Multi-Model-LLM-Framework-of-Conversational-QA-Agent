@@ -68,7 +68,7 @@ MODELS = [
 # Ground truth QA pairs
 # T = transcript-based, E = excel-based, C = composite, I = irrelevant
 GROUND_TRUTH = [
-    {"id":"T01","q":"What is the abbreviation of DMEA?","a":"Data Management in Engineering Applications","rel":True},
+    {"id":"T01","q":"What is the abbreviation of Data Management for Engineering Applications?","a":"DMEA","rel":True},
     {"id":"T02","q":"Who teaches the DMEA module?","a":"Eike Schalleen","rel":True},
     {"id":"T03","q":"Which research group does the DMEA lecturer belong to?","a":"database group of Professor Saake","rel":True},
     {"id":"T04","q":"Does DMEA have any prerequisites?","a":"no prerequisites","rel":True},
