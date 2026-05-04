@@ -1,0 +1,20 @@
+
+# conversational_qa_pipeline.py
+
+# NOTE: torch must already be installed before running this , and HuggingFace and Open AI Key required
+# Input files: knowledge_base.txt and Supplementary_Database.xlsx from speech_to_text.py and web_data_extraction.py pipeline
+# Run: pip install -r requirements_qa_pipeline.txt
+
+torch
+transformers
+accelerate
+bitsandbytes
+huggingface_hub
+einops
+datasets
+
+# Evaluation
+bert-score
+openai
+langchain-openai
+ragas

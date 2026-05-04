@@ -1,0 +1,13 @@
+# video_to_audio.py
+# SYSTEM DEPENDENCY — install before pip:
+#   Windows : winget install ffmpeg   OR   choco install ffmpeg
+#   Linux   : sudo apt install ffmpeg
+#   Colab   : pre-installed, no action needed
+
+# Run: pip install -r requirements_video_to_audio.txt
+
+numpy
+yt-dlp
+moviepy
+librosa
+soundfile

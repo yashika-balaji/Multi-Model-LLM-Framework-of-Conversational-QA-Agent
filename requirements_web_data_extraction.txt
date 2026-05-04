@@ -1,0 +1,8 @@
+# web_data_extraction
+# Run: pip install -r requirements_web_data_extraction.txt
+
+requests==2.32.4
+beautifulsoup4
+lxml
+openpyxl
+argostranslate

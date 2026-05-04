@@ -1,0 +1,12 @@
+
+# speech_to_text.py and evaluation_stt.py
+# NOTE: torch must already be installed before running this.
+# Run: pip install -r requirements_speech_to_text.txt
+
+torch
+openai-whisper
+sentence-transformers==2.7.0
+
+# Evaluation
+jiwer
+bert-score
